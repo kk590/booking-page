@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/rkkk.html"
+      "destination": "/rkk-studio-booking.html"
     }
   ]
 }
